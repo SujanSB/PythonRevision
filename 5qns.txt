@@ -1,0 +1,36 @@
+Today's Agendas :
+
+-VS code
+-Github
+-Understanding these 5 Programs
+
+
+#5 Python Basic Programs :
+
+
+Q1) Make a simple Dictionary Such that user can get it's meaning after entering the input .
+
+Q2) Make any list having at least 10 elements.Generate a Random number and thus make 
+	any correct answer(A element of that list).Take input from the user to guess whether 		
+	it is correct answer or not .GIve output as "Correct"/"Wrong" answer. 
+
+Q3) Password Generator Program 
+	Create a Python program that generates a random password for the user.
+	Make sure your program takes a few inputs from the user:
+	    How long should the password be?
+	    How many characters should there be?
+	    Should it have both uppercase and lowercase letters?
+	    Should it include numbers and special symbols, too?
+	
+Q4) "Sakkisakyo ta !!" Game:
+	Let any number between 1 to 100 s a correct number .(no need to be random number).
+	Your player needs to be able to input their guesses.
+	You need to set a maximum limit for guesses.
+	The player needs to be notified about the remaining number of guesses.
+	If Player have no remaining guesses then print "Sakkisakyo ta " .
+	Twist :( if player has no remaining guesses ,
+			 give the options of entering the Secret code to increase their guesses "
+	
+Q5) "Rock Paper Scissors" Game : Use Your own idea. Make result.txt file to save the results.
+	(Implement file handeling Concept)
+	

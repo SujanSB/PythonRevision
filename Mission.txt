@@ -1,0 +1,135 @@
+We are going to held "Python for 12 Days " Program from Today .
+Today is just A discussion Class about What is python, what we can do with it ,
+
+
+
+DAY 0 
+
+#How much python you need to learn before you learn Django
+ 
+ 1)Variables, Basic Data Types, Operators
+
+--Why Is It Needed?
+    There is nothing really Django-specific about these: if you are planning to do any programming,
+    you must know these basics.
+
+What You Need To Know
+    -what is a variable, how to define and use them
+    -the concept of global and local scope
+    -the concept of data types
+    -the most common data types in Python: string, int, float, list, tuple, dict, bool
+    -the basic operators for the above mentioned data types: arithmetic operators, assignments, comparisons,
+     string and array operations (slicing, indexing, concatenation, etc.), and boolean operators.
+
+2)Control Flow: Loops, Conditionals
+--Why Is It Needed?
+
+    These concepts still belong to the basics of programming: you must be comfortable with these language 
+    constructs to do anything beyond trivial scripts.
+
+What You Need To Know
+
+-Basic Boolean Expressions
+You need to be familiar with the basics of boolean algebra and the boolean and comparison operators in Python:
+and, or, not, in, is, =, >, < etc.
+
+-Conditionals
+For your app to produce any useful behaviour, it’ll need to make decisions based on user input/some external data.
+To be able to do that you’ll need to read up on how if, elif and else works.
+
+-Loops
+Get familiar with the concept of loops. Regarding the syntax, Python makes it easy for you,
+the two essential keywords are while and for, if you’re comfortable with them, you’ll be fine. Additionally,
+you might also want to look into how the range builtin works.
+
+
+
+3)Functions, Arguments
+--Why Is It Needed?
+    So far you’ve learned most of the necessary basics of the language, there are some structures though to 
+    help you organize your code: functions, classes, modules and packages.
+
+What You Need To Know
+    -Defining and using functions and methods
+    -Positional and keyword arguments
+    -Return values
+    -Variable scopes
+
+
+
+4)Packages, modules, pip
+--Why Is It Needed?
+    You’ll also need to install Django, and potentially other packages. Further down the road you might want to
+    publish your own django apps as reusable packages. You’ll need to understand how modules work, and be able to
+     import functions and classes from other modules.
+
+What You Need To Know
+    -What’s a module, how the import statement works in Python
+    -What’s a Python package
+    -Basic pip usage: how to install and update packages
+
+
+5)Other Skills Besides Python
+
+Css and Html
+
+Why Is It Needed?
+Most likely you will use Django to generate html code. Html will be your way to communicate with the web browser.
+Plain html can be used to transfer pure information, so it will be displayed as a basic black and white page. 
+Css is the technology that can be used to style your webpages - add colors, fonts, borders, etc.
+
+
+
+
+
+
+
+
+
+
+-------------------------------------Django------------------------------------------
+
+
+Django is an open-source framework for backend web applications based on Python —
+one of the top web development languages.
+Its main goals are simplicity, flexibility, reliability, and scalability.
+
+Why we use the Django framework
+1)It’s fast and simple
+-One of Django’s main goals is to simplify work for developers. To do that, the Django framework uses:
+
+    The principles of rapid development, which means developers can do more than one iteration at a 
+    time without starting the whole schedule from scratch;
+    DRY philosophy —
+    Don’t Repeat Yourself —
+    which means developers can reuse existing code and focus on the unique one.
+
+2)It’s secure
+-Security is also a high priority for Django. It has one of the best out-of-the-box security systems out there,
+and it helps developers avoid common security issues, including
+
+    clickjacking,
+    cross-site scripting,and
+    SQL injection.
+
+3)It suits any web application project
+-With Django, you can tackle projects of any size and capacity,
+    whether it’s a simple website or a high-load web application.
+
+4)It’s well-established
+
+Django is time- and crowd-tested. It has a big, supportive community accessed through numerous forums,
+channels, and dedicated websites.
+It’s easy to find help when there’s a problematic function in the code,
+and to find developers if your company is looking to base the next project on Django.
+Django started off with great documentation, the best of any other open-source framework.
+And it’s still maintained on a high level,
+updated along with the new functions and fixes, so you can easily adapt to changes.
+
+
+
+--Instructor
+-Sujan Bhattarai
+-Kiran Chaudary
+-Sundar Dumre
+-Prajwal Chaudary
